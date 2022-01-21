@@ -1,0 +1,12 @@
+.header-container {
+  width: 100%;
+  height: 5rem;
+  background-color: rgb(27, 27, 27);
+  position: fixed;
+  z-index: 2;
+}
+.header-title {
+  font: 900 2rem Helvetica;
+  padding: 1.5rem;
+  color: aliceblue;
+}
